@@ -1,2 +1,2 @@
 This was a project I did while taking "Machine Learning" through UCLA Extension in the Summer of 2020.  This project uses several supervised learning models on a dataset comprised of the outcomes of League of Legends games. The dataset is from kaggle.com, and uses 1000 matches between Diamond ranked players.
-For the Project, I performed data preparation, implemented the models, and compared the results.  My findings can be found in the accompanying report.
+For the project, I performed data preparation, implemented the models, and compared the results.  My findings can be found in the accompanying report.
